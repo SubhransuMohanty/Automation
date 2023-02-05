@@ -6,7 +6,7 @@ public class GitAssignment {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Second commit");
-		System.out.println("Verify default retry ");
+		System.out.println("Verify default last try ");
 
 	}
 }
