@@ -6,7 +6,7 @@ public class GitAssignment {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Second commit");
+		System.out.println("Adding a new syso line - check commit version  ");
 
 	}
-
 }
