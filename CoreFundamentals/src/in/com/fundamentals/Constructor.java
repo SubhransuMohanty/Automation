@@ -1,4 +1,4 @@
-package in.com;
+package in.com.fundamentals;
 
 public class Constructor {
 

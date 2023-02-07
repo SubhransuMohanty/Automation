@@ -1,4 +1,4 @@
-package in.com;
+package in.com.fundamentals;
 
 public class GitAssignment {
 
@@ -6,7 +6,7 @@ public class GitAssignment {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Second commit");
-		System.out.println("https configuration");
+		System.out.println("https configuration hffh jkgu");
 
 	}
 }
