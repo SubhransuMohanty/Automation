@@ -48,12 +48,18 @@ public class ScannerAssignment1 {
 		 x4=sc.nextInt();
 		 int subresult1=sa.sub(addresult2,x4);
 		System.out.println("Value of  substraction (((x1+x2)+x3)-x4):-"+" "+subresult1+"\n");
+		
+		System.out.print("Enter value for x5:-");
 		x5=sc.nextInt();
 		 int divresult1=sa.div(subresult1,x5);
 		System.out.println("Value of  division ((((x1+x2)+x3)-x4)/x5):-"+" "+divresult1+"\n");
+		
+		System.out.print("Enter value for x6:-");
 		x6=sc.nextInt();
 		 int multiplyresult1=sa.multiply(divresult1,x6);
 		System.out.println("Value of  multiplication (((((x1+x2)+x3)-x4)/x5)*x6):-"+" "+multiplyresult1+"\n");
+		
+		
 		
 	}
 
