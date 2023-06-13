@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class ScannerAssignment1 {
 	
-	public int add(int param1,int param2)
+	public  int add(int param1,int param2)
 	{
-		 int addresult= param1+param2;
+		 //int addresult= param1+param2;
 		 
-		 return addresult;
+		 return param1+param2;
 	}
 	public int sub(int param1,int param2)
 	{
@@ -44,7 +44,7 @@ public class ScannerAssignment1 {
 		x3=sc.nextInt();
 		int addresult2=sa.add(addresult1, x3);
 		System.out.println("Value of second addition (x1+x2)+x3:-"+" "+addresult2+"\n");
-		System.out.println("Enter value for x4:-");
+		System.out.print("Enter value for x4:-");
 		 x4=sc.nextInt();
 		 int subresult1=sa.sub(addresult2,x4);
 		System.out.println("Value of  substraction (((x1+x2)+x3)-x4):-"+" "+subresult1+"\n");

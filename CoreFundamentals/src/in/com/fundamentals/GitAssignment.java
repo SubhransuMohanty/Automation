@@ -6,7 +6,7 @@ public class GitAssignment {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Second commit");
-		System.out.println("https configuration hffh jkgu");
+		System.out.println("https configuration hffh today");
 
 	}
 }
