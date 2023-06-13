@@ -10,9 +10,9 @@ public class MathClassTest {
 		
 		MathClassTest ref=new MathClassTest();
 		
-		//System.out.println("Max Number between x & y is :- " + ref.MathMax()+"\n");
+		System.out.println("Max Number between x & y is :- " + ref.MathMax()+"\n");
 		
-		//System.out.println("Min Number between x & y is :- " + ref.MathMin()+"\n");
+		System.out.println("Min Number between x & y is :- " + ref.MathMin()+"\n");
 		
 		System.out.println("Square root of x is :- " + ref.MathSquareroot());
 		
